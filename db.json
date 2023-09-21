@@ -1,0 +1,201 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Baked Salmon",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 2,
+          "name": "Pine Nuts",
+          "amount": 1,
+          "measurement": "cup"
+        },
+        {
+          "id": 3,
+          "name": "Butter Lettuce",
+          "amount": 2,
+          "measurement": "cups"
+        },
+        {
+          "id": 4,
+          "name": "Yellow Squash",
+          "amount": 1,
+          "measurement": "med"
+        },
+        {
+          "id": 5,
+          "name": "Olive Oil",
+          "amount": 0.5,
+          "measurement": "cup"
+        },
+        {
+          "id": 6,
+          "name": "Garlic",
+          "amount": 3,
+          "measurement": "cloves"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fish Tacos",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Whitefish",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 2,
+          "name": "Cheese",
+          "amount": 1,
+          "measurement": "cup"
+        },
+        {
+          "id": 3,
+          "name": "Iceberg Lettuce",
+          "amount": 2,
+          "measurement": "cups"
+        },
+        {
+          "id": 4,
+          "name": "Tomatoes",
+          "amount": 2,
+          "measurement": "large"
+        },
+        {
+          "id": 5,
+          "name": "Tortillas",
+          "amount": 3,
+          "measurement": "med"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fish Chowder",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 2,
+          "name": "Prawns",
+          "amount": 1,
+          "measurement": "cup"
+        },
+        {
+          "id": 3,
+          "name": "Butter Lettuce",
+          "amount": 2,
+          "measurement": "cups"
+        },
+        {
+          "id": 4,
+          "name": "Yellow Squash",
+          "amount": 1,
+          "measurement": "med"
+        },
+        {
+          "id": 5,
+          "name": "Olive Oil",
+          "amount": 0.5,
+          "measurement": "cup"
+        },
+        {
+          "id": 6,
+          "name": "Garlic",
+          "amount": 3,
+          "measurement": "cloves"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Fish and Chips",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 2,
+          "name": "Pine Nuts",
+          "amount": 1,
+          "measurement": "cup"
+        },
+        {
+          "id": 3,
+          "name": "Butter Lettuce",
+          "amount": 2,
+          "measurement": "cups"
+        },
+        {
+          "id": 4,
+          "name": "Yellow Squash",
+          "amount": 1,
+          "measurement": "med"
+        },
+        {
+          "id": 5,
+          "name": "Olive Oil",
+          "amount": 0.5,
+          "measurement": "cup"
+        },
+        {
+          "id": 6,
+          "name": "Garlic",
+          "amount": 3,
+          "measurement": "cloves"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fish Soup",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 2,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 3,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        },
+        {
+          "id": 4,
+          "name": "Salmon",
+          "amount": 1,
+          "measurement": "l lb"
+        }
+      ]
+    },
+    {
+      "name": "check",
+      "ingredients": [],
+      "id": 6
+    }
+  ]
+}
